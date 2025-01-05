@@ -1,2 +1,5 @@
 /dataset/**
 /venv
+/notebooks/checkpoints/
+/test
+.DS_Store

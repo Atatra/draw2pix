@@ -1,4 +1,22 @@
-Python 3.9
+## Models
+
+### CycleGAN
+
+Pixel Art to Drawing [Source](https://www.pixilart.com/art/pink-sheep-sr23793e6629eaws3)
+
+![a](./results/cycleGanV1_p2d_sheepgirl.png)
+
+Drawing to Pixel Art
+
+![b](./results/cycleGanV1_d2p_hellokitty.png)
+
+## Setup
+
+- Download dataset [here](https://drive.usercontent.google.com/download?id=1YAjcz6lScm-Gd2C5gj3iwZOhG5092fRo&export=download)
+- Unzip and put folder in `/dataset/draw2pix`
+- Download latest checkpoint of desired model [here](https://drive.google.com/drive/u/0/folders/1OABzz2pnsTO9XJNzkdbTDnTZ2tDzywAc)
+- Unzip and put folder in `/notebooks/checkpoints/draw2pix`
+- Run notebook in `/notebooks/`
 
 ## Description
 
@@ -12,3 +30,4 @@ For pixel art, Multi-cell dataset of pixel arts with different cell sizes of a f
 
 - [pytorch-CycleGAN-and-pix2pix](https://github.com/junyanz/pytorch-CycleGAN-and-pix2pix)
 - [Aliasing-Aware and Cell-Controllable Pixelization](https://github.com/WuZongWei6/Pixelization) - [Data Download Link](https://drive.usercontent.google.com/download?id=1YAjcz6lScm-Gd2C5gj3iwZOhG5092fRo&export=download)
+- [Custom Images from pixelart.com](https://www.pixilart.com/art/)
