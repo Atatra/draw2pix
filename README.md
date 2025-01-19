@@ -16,7 +16,7 @@ Drawing to Pixel Art
 - Unzip and put folder in `/dataset/draw2pix`
 - Download latest checkpoint of desired model
   - [CycleGan](https://drive.google.com/drive/u/0/folders/1OABzz2pnsTO9XJNzkdbTDnTZ2tDzywAc)
-  - [SD Fine-Tuned]https://drive.google.com/file/d/1e2annZU4_3WpkUb8fQkWAqdUB4OCafC3/view?usp=share_link
+  - [SD Fine-Tuned](https://drive.google.com/file/d/1e2annZU4_3WpkUb8fQkWAqdUB4OCafC3/view?usp=share_link)
 - Unzip and put folder in `/notebooks/checkpoints/draw2pix`
 - Run notebook in `/notebooks/`
 
